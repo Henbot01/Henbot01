@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 All of the above!
 
-Background in Financial Markets with a keen interest in Blockchain technology and networking. 
+Background in Financial Markets
 Experience includes:
 Derivatives and Equity Markets Dealing
 Stock Exchange implementation
@@ -20,14 +20,8 @@ Order and Execution Management implementation
 Financial System impementation.
 
 
-Learning git so it's going to be messy to begin with, i'll make the same mistakes everyone has before me. 1. Ignore advice, 2.Ignore advice 3. make a mess.
+Learning and building Financial Databases, sourcing data and identifying trends
 
-Currently doing the Odin project with a little of Haskell on the side. along weith My CCNA.
 
-Goals
-Become competent as fast as I can in:
-Networking
-Web Development
-Cloud Platform Architecture
 
 
